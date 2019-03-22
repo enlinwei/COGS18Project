@@ -1,0 +1,2 @@
+This code uses tkinter to create a file dialogue for file selection; so it should NOT be run from the Jupyter Notebook terminal.
+This code imports string in classes_and_functions.py, imports pytest in tests.py, and tkinter, sys, and os in script.py.
